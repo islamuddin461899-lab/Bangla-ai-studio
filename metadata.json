@@ -1,0 +1,6 @@
+{
+  "name": "বাংলা AI Studio",
+  "description": "একটি সম্পূর্ণ আধুনিক AI Creative Web App - ChatGPT-এর মতো AI Assistant এবং AI Photo ও Video Creation Platform।",
+  "requestFramePermissions": ["camera", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
